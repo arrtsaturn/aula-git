@@ -1,0 +1,17 @@
+git init - inicia o repositório
+
+git status - verifica o status dos arquivos 
+
+git remote add (url) - adiciona o repositório local ao remoto
+
+git pull origin main - pega os arquivos já existents no repositório remoto
+
+git checkout -b (nome da branch) - cria nova branch
+
+git add . - adiciona os arquivos no repositório
+
+git commit -m "mensagem" - colocar as informações de atualização ao repositório
+
+git push origin main - enviar os arquivos do repositório local ao repositório remoto
+
+git clone 
